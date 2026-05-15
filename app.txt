@@ -2,4 +2,4 @@ Hello from feature branch.
 UI branch changes
 Hey, welcome to the team from backend
 HELLO FROM FEATURE BRANCH
-HELLO FROM MAIN BRANCH 
+HELLO FROM MAIN BRANCH , RESOLVING REBASE  
